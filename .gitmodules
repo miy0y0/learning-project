@@ -1,0 +1,9 @@
+[submodule "PyTorch-Tutorial"]
+	path = PyTorch-Tutorial
+	url = https://github.com/miy0y0/PyTorch-Tutorial.git
+[submodule "joyrl-book"]
+	path = joyrl-book
+	url = https://github.com/miy0y0/joyrl-book.git
+[submodule "Hands-on-RL"]
+	path = Hands-on-RL
+	url = https://github.com/miy0y0/Hands-on-RL.git
